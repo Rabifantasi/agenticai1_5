@@ -1,4 +1,4 @@
-📘 README: AI Agent Stack Setup
+**📘 README: AI Agent Stack Setup**
 This project demonstrates a complete setup using the following tools:
 
 uv: Lightning-fast Python package manager
